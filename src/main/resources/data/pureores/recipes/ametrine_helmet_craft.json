@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "pureores:ametrine"
+    },
+    "1": {
+      "item": "pureores:ametrine"
+    },
+    "2": {
+      "item": "pureores:ametrine"
+    },
+    "3": {
+      "item": "pureores:ametrine"
+    },
+    "5": {
+      "item": "pureores:ametrine"
+    }
+  },
+  "result": {
+    "item": "pureores:ametrine_helmet",
+    "count": 1
+  }
+}

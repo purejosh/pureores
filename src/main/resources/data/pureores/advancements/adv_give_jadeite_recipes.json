@@ -1,0 +1,50 @@
+{
+  "display": {
+    "icon": {
+      "item": "pureores:jadeite"
+    },
+    "title": "Obtain Jadeite",
+    "description": "Obtain Jadeite",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_give_jadeite_recipes": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "pureores:jadeite"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50,
+    "recipes": [
+      "pureores:jadeite_boots_craft",
+      "pureores:jadeite_chestplate_craft",
+      "pureores:jadeite_helmet_craft",
+      "pureores:jadeite_leggings_craft",
+      "pureores:jadeite_axe_craft",
+      "pureores:jadeite_craft",
+      "pureores:jadeite_hoe_craft",
+      "pureores:jadeite_block_craft",
+      "pureores:jadeite_ore_smelt",
+      "pureores:jadeite_pickaxe_craft",
+      "pureores:jadeite_shovel_craft",
+      "pureores:jadeite_sword_craft",
+      "pureores:jadeite_ore_blast"
+    ]
+  },
+  "parent": "pureores:adv_give_fire_opal_recipes"
+}

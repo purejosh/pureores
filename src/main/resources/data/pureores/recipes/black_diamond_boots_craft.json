@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "pureores:black_diamond"
+    },
+    "2": {
+      "item": "pureores:black_diamond"
+    },
+    "3": {
+      "item": "pureores:black_diamond"
+    },
+    "5": {
+      "item": "pureores:black_diamond"
+    }
+  },
+  "result": {
+    "item": "pureores:black_diamond_boots",
+    "count": 1
+  }
+}

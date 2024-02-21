@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "pureores:sapphire"
+    },
+    "2": {
+      "item": "pureores:sapphire"
+    },
+    "3": {
+      "item": "pureores:sapphire"
+    },
+    "5": {
+      "item": "pureores:sapphire"
+    }
+  },
+  "result": {
+    "item": "pureores:sapphire_boots",
+    "count": 1
+  }
+}

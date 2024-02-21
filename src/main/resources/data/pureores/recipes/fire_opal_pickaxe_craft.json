@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "pureores:fire_opal"
+    },
+    "1": {
+      "item": "pureores:fire_opal"
+    },
+    "2": {
+      "item": "pureores:fire_opal"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "pureores:fire_opal_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "pureores:jadeite"
+    },
+    "2": {
+      "item": "pureores:jadeite"
+    },
+    "3": {
+      "item": "pureores:jadeite"
+    },
+    "5": {
+      "item": "pureores:jadeite"
+    }
+  },
+  "result": {
+    "item": "pureores:jadeite_boots",
+    "count": 1
+  }
+}

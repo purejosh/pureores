@@ -1,0 +1,50 @@
+{
+  "display": {
+    "icon": {
+      "item": "pureores:black_diamond"
+    },
+    "title": "Obtain Black Diamond",
+    "description": "Obtain Black Diamond",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_give_black_diamond_recipes": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "pureores:black_diamond"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 500,
+    "recipes": [
+      "pureores:black_diamond_ore_smelting",
+      "pureores:black_diamond_boots_craft",
+      "pureores:black_diamond_chestplate_craft",
+      "pureores:black_diamond_helmet_craft",
+      "pureores:black_diamond_leggings_craft",
+      "pureores:black_diamond_axe_craft",
+      "pureores:black_diamond_hoe_craft",
+      "pureores:black_diamond_craft",
+      "pureores:black_diamond_block_craft",
+      "pureores:black_diamond_ore_smelt",
+      "pureores:black_diamond_pickaxe_craft",
+      "pureores:black_diamond_shovel_craft",
+      "pureores:black_diamond_sword_craft"
+    ]
+  },
+  "parent": "pureores:adv_give_sapphire_recipes"
+}

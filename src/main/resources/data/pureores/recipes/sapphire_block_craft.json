@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "pureores:sapphire"
+    },
+    "1": {
+      "item": "pureores:sapphire"
+    },
+    "2": {
+      "item": "pureores:sapphire"
+    },
+    "3": {
+      "item": "pureores:sapphire"
+    },
+    "4": {
+      "item": "pureores:sapphire"
+    },
+    "5": {
+      "item": "pureores:sapphire"
+    },
+    "6": {
+      "item": "pureores:sapphire"
+    },
+    "7": {
+      "item": "pureores:sapphire"
+    },
+    "8": {
+      "item": "pureores:sapphire"
+    }
+  },
+  "result": {
+    "item": "pureores:sapphire_block",
+    "count": 1
+  }
+}

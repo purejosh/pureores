@@ -1,0 +1,46 @@
+{
+  "display": {
+    "icon": {
+      "item": "pureores:lonsdaleite_chestplate"
+    },
+    "title": "Stellar Threads",
+    "description": "Equip a full suit of Lonsdaleite Armor",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_give_lonsdaleite_armor": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "pureores:lonsdaleite_helmet"
+            ]
+          },
+          {
+            "items": [
+              "pureores:lonsdaleite_chestplate"
+            ]
+          },
+          {
+            "items": [
+              "pureores:lonsdaleite_leggings"
+            ]
+          },
+          {
+            "items": [
+              "pureores:lonsdaleite_boots"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 3000
+  },
+  "parent": "pureores:adv_give_lonsdaleite_recipes"
+}

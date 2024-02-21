@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "pureores:block/lonsdaleite_meteorite_stone",
+    "up": "pureores:block/lonsdaleite_meteorite_stone",
+    "north": "pureores:block/lonsdaleite_meteorite_stone",
+    "east": "pureores:block/lonsdaleite_meteorite_stone",
+    "south": "pureores:block/lonsdaleite_meteorite_stone",
+    "west": "pureores:block/lonsdaleite_meteorite_stone",
+    "particle": "pureores:block/lonsdaleite_meteorite_stone"
+  },
+  "render_type": "solid"
+}

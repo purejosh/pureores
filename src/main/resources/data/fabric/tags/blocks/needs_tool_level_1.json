@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "pureores:chrysoberyl_block",
+    "pureores:serpentinite_stone",
+    "pureores:jadeite_ore",
+    "pureores:mica_schist",
+    "pureores:chrysoberyl_ore"
+  ]
+}

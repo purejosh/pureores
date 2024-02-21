@@ -1,0 +1,50 @@
+{
+  "display": {
+    "icon": {
+      "item": "pureores:lonsdaleite"
+    },
+    "title": "Astral Descent",
+    "description": "Obtain Lonsdaleite",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_give_lonsdaleite_recipes": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "pureores:lonsdaleite"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1500,
+    "recipes": [
+      "pureores:lonsdaleite_boots_craft",
+      "pureores:lonsdaleite_chestplate_craft",
+      "pureores:lonsdaleite_helmet_craft",
+      "pureores:lonsdaleite_leggings_craft",
+      "pureores:lonsdaleite_craft",
+      "pureores:lonsdaleite_axe_craft",
+      "pureores:lonsdaleite_hoe_craft",
+      "pureores:lonsdaleite_block_craft",
+      "pureores:lonsdaleite_ore_smelt",
+      "pureores:lonsdaleite_pickaxe_craft",
+      "pureores:lonsdaleite_shovel_craft",
+      "pureores:lonsdaleite_sword_craft",
+      "pureores:lonsdaleite_ore_blast"
+    ]
+  },
+  "parent": "pureores:adv_give_black_diamond_recipes"
+}

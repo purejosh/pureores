@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "pureores:sapphire_block",
+    "pureores:moonstone_block",
+    "pureores:jadeite_block",
+    "pureores:black_diamond_block",
+    "pureores:ametrine_block",
+    "pureores:lonsdaleite_block",
+    "pureores:fire_opal_block",
+    "pureores:chrysoberyl_block"
+  ]
+}

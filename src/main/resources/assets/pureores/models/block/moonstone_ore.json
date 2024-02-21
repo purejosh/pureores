@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "pureores:block/moonstone_ore",
+    "particle": "pureores:block/moonstone_ore"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "pureores:jadeite_block"
+    }
+  ],
+  "result": {
+    "item": "pureores:jadeite",
+    "count": 9
+  }
+}

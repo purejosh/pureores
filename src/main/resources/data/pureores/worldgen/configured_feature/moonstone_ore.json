@@ -1,0 +1,18 @@
+{
+  "type": "pureores:moonstone_ore",
+  "config": {
+    "size": 24,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "pureores:moonstone_ore_replaceable"
+        },
+        "state": {
+          "Name": "pureores:moonstone_ore"
+        }
+      }
+    ]
+  }
+}

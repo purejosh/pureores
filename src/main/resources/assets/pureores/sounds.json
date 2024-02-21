@@ -1,0 +1,32 @@
+{
+  "equip_fire_opal": {
+    "category": "player",
+    "subtitle": "subtitles.equip_fire_opal",
+    "sounds": [
+      {
+        "name": "pureores:equip_fire_opal1",
+        "stream": false
+      },
+      {
+        "name": "pureores:equip_fire_opal2",
+        "stream": false
+      },
+      {
+        "name": "pureores:equip_fire_opal3",
+        "stream": false
+      },
+      {
+        "name": "pureores:equip_fire_opal4",
+        "stream": false
+      },
+      {
+        "name": "pureores:equip_fire_opal5",
+        "stream": false
+      },
+      {
+        "name": "pureores:equip_fire_opal6",
+        "stream": false
+      }
+    ]
+  }
+}

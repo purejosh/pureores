@@ -1,0 +1,18 @@
+{
+  "type": "pureores:end_ametrine_ore",
+  "config": {
+    "size": 10,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "pureores:ametrine_ore_replaceable"
+        },
+        "state": {
+          "Name": "pureores:end_ametrine_ore"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:diorite",
+    "minecraft:mycelium",
+    "minecraft:stone",
+    "minecraft:rooted_dirt",
+    "minecraft:red_sand",
+    "minecraft:red_sandstone",
+    "minecraft:granite",
+    "minecraft:andesite",
+    "minecraft:grass_block",
+    "minecraft:powder_snow",
+    "minecraft:sandstone",
+    "minecraft:brown_terracotta",
+    "minecraft:coarse_dirt",
+    "minecraft:snow",
+    "minecraft:sand",
+    "minecraft:snow_block",
+    "minecraft:gravel",
+    "minecraft:dirt",
+    "minecraft:podzol",
+    "minecraft:terracotta",
+    "minecraft:dirt_path"
+  ]
+}

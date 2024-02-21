@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pureores:black_diamond_block"
+    }
+  ],
+  "result": {
+    "item": "pureores:black_diamond",
+    "count": 9
+  }
+}
