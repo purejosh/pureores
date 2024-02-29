@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "pureores:ametrine_pickaxe",
+    "pureores:black_diamond_pickaxe",
+    "pureores:chrysoberyl_pickaxe",
+    "pureores:fire_opal_pickaxe",
+    "pureores:jadeite_pickaxe",
+    "pureores:lonsdaleite_pickaxe",
+    "pureores:moonstone_pickaxe",
+    "pureores:sapphire_pickaxe"
+  ]
+}

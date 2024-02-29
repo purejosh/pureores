@@ -1,10 +1,9 @@
 {
   "replace": false,
   "values": [
-    "pureores:chrysoberyl_block",
+    "pureores:moonstone_ore",
+    "pureores:nether_fire_opal_ore",
     "pureores:serpentinite_stone",
-    "pureores:jadeite_ore",
-    "pureores:mica_schist",
-    "pureores:chrysoberyl_ore"
+    "pureores:mica_schist"
   ]
 }

@@ -22,7 +22,7 @@ import net.fabricmc.api.Environment;
 import net.fabricmc.api.EnvType;
 
 public class NetherFireOpalOreBlock extends Block {
-	public static BlockBehaviour.Properties PROPERTIES = BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().sound(SoundType.NETHER_ORE).strength(3f, 10f).requiresCorrectToolForDrops();
+	public static BlockBehaviour.Properties PROPERTIES = BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().sound(SoundType.NETHER_ORE).strength(3f).requiresCorrectToolForDrops();
 
 	public NetherFireOpalOreBlock() {
 		super(PROPERTIES);

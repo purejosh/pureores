@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "pureores:ametrine_sword",
+    "pureores:black_diamond_sword",
+    "pureores:chrysoberyl_sword",
+    "pureores:fire_opal_sword",
+    "pureores:jadeite_sword",
+    "pureores:lonsdaleite_sword",
+    "pureores:moonstone_sword",
+    "pureores:sapphire_sword"
+  ]
+}

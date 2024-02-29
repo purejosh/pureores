@@ -22,7 +22,7 @@ import java.util.List;
 import java.util.Collections;
 
 public class SerpentiniteStoneBlock extends Block {
-	public static BlockBehaviour.Properties PROPERTIES = BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().sound(SoundType.BASALT).strength(2.4f, 3f).requiresCorrectToolForDrops();
+	public static BlockBehaviour.Properties PROPERTIES = BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().sound(SoundType.BASALT).strength(1.5f, 6f).requiresCorrectToolForDrops();
 
 	public SerpentiniteStoneBlock() {
 		super(PROPERTIES);

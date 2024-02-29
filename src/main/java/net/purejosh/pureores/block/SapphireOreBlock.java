@@ -22,7 +22,7 @@ import net.fabricmc.api.Environment;
 import net.fabricmc.api.EnvType;
 
 public class SapphireOreBlock extends Block {
-	public static BlockBehaviour.Properties PROPERTIES = BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().sound(SoundType.STONE).strength(3f, 5f).requiresCorrectToolForDrops();
+	public static BlockBehaviour.Properties PROPERTIES = BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().sound(SoundType.STONE).strength(3f).requiresCorrectToolForDrops();
 
 	public SapphireOreBlock() {
 		super(PROPERTIES);

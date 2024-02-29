@@ -5,10 +5,11 @@
     "pureores:fire_opal_block",
     "pureores:jadeite_block",
     "pureores:ametrine_block",
+    "pureores:chrysoberyl_block",
     "pureores:sapphire_block",
-    "pureores:moonstone_ore",
-    "pureores:nether_fire_opal_ore",
+    "pureores:jadeite_ore",
     "pureores:end_ametrine_ore",
+    "pureores:chrysoberyl_ore",
     "pureores:sapphire_ore"
   ]
 }

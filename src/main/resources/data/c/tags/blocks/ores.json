@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "pureores:chrysoberyl_ore",
+    "pureores:deepslate_black_diamond_ore",
+    "pureores:end_ametrine_ore",
+    "pureores:jadeite_ore",
+    "pureores:lonsdaleite_ore",
+    "pureores:moonstone_ore",
+    "pureores:nether_fire_opal_ore",
+    "pureores:sapphire_ore"
+  ]
+}

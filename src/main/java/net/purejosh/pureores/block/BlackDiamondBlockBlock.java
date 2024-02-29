@@ -21,7 +21,7 @@ import java.util.List;
 import java.util.Collections;
 
 public class BlackDiamondBlockBlock extends Block {
-	public static BlockBehaviour.Properties PROPERTIES = BlockBehaviour.Properties.of().requiresCorrectToolForDrops().sound(SoundType.METAL).strength(5f, 10f).requiresCorrectToolForDrops();
+	public static BlockBehaviour.Properties PROPERTIES = BlockBehaviour.Properties.of().requiresCorrectToolForDrops().sound(SoundType.METAL).strength(5f, 6f).requiresCorrectToolForDrops();
 
 	public BlackDiamondBlockBlock() {
 		super(PROPERTIES);
