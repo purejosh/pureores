@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "pureores:block/fire_opal_block",
-    "particle": "pureores:block/fire_opal_block"
-  },
-  "render_type": "solid"
-}

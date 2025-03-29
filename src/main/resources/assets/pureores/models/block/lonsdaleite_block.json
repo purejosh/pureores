@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "pureores:block/lonsdaleite_block",
-    "particle": "pureores:block/lonsdaleite_block"
-  },
-  "render_type": "solid"
-}

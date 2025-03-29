@@ -1,34 +1,45 @@
 {
-  "schemaVersion": 1,
-  "id": "pureores",
-  "version": "1.0.3",
-  "name": "Pure Ores",
-  "description": "Adds more ores to the game, giving you many options for awesome looking gear and blocks!",
-  "authors": [
-    "purejosh"
-  ],
-  "contact": {
-    "homepage": "https://legacy.curseforge.com/minecraft/mc-mods/pureores",
-    "sources": ""
-  },
-  "license": "Custom license",
-  "icon": "assets/pureores/icon.png",
-  "environment": "*",
-  "entrypoints": {
-    "main": [
-      "net.purejosh.pureores.PureoresMod"
-    ],
-    "client": [
-      "net.purejosh.pureores.ClientInit"
-    ]
-  },
-  "depends": {
-    "fabricloader": ">=0.14.21",
-    "fabric": "*",
-    "minecraft": "~1.20",
-    "java": ">=17"
-  },
-  "mixins": [
-    "pureores.mixins.json"
-  ]
+	"schemaVersion": 1,
+	"id": "pureores",
+	"version": "2.0.0",
+	"name": "Pure Ores",
+	"description": "Adds more ores to the game, giving you many options for awesome looking gear and blocks!",
+	"authors": [
+		"purejosh"
+	],
+	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/pureores",
+		"sources": "https://github.com/purejosh/pureores",
+		"issues": "https://github.com/purejosh/pureores/issues"
+	},
+	"license": "MIT-R-NR",
+	"icon": "assets/pureores/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.purejosh.pureores.PureOres"
+		],
+		"client": [
+			"net.purejosh.pureores.PureOresClient"
+		],
+		"fabric-datagen": [
+			"net.purejosh.pureores.PureOresDataGenerator"
+		]
+	},
+	"mixins": [
+		"pureores.mixins.json",
+		{
+			"config": "pureores.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": ">=1.21 <=1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
 }

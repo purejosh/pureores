@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "pureores:block/ametrine_block",
-    "particle": "pureores:block/ametrine_block"
-  },
-  "render_type": "solid"
-}

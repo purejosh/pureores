@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "pureores:block/chrysoberyl_block",
-    "particle": "pureores:block/chrysoberyl_block"
-  },
-  "render_type": "solid"
-}

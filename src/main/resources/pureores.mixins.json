@@ -1,11 +1,11 @@
 {
-  "required": true,
-  "minVersion": "0.8",
-  "package": "net.purejosh.pureores.mixins",
-  "compatibilityLevel": "JAVA_17",
-  "mixins": [
-	"PureoresModRepairItemRecipeMixin"  ],
-  "injectors": {
-	"defaultRequire": 1
-  }
+	"required": true,
+	"package": "net.purejosh.pureores.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
 }

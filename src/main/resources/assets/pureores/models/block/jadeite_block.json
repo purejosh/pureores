@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "pureores:block/jadeite_block",
-    "particle": "pureores:block/jadeite_block"
-  },
-  "render_type": "solid"
-}
