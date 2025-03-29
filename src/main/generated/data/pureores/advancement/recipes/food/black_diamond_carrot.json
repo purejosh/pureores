@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_black_diamond_dust": {
+      "conditions": {
+        "items": [
+          {
+            "items": "pureores:black_diamond_dust"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pureores:black_diamond_carrot"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_black_diamond_dust"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pureores:black_diamond_carrot"
+    ]
+  }
+}

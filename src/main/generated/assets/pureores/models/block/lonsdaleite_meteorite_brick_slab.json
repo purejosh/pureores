@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "pureores:block/lonsdaleite_meteorite_bricks",
+    "side": "pureores:block/lonsdaleite_meteorite_bricks",
+    "top": "pureores:block/lonsdaleite_meteorite_bricks"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "pureores:lonsdaleite_meteorite"
+  },
+  "result": {
+    "count": 1,
+    "id": "pureores:polished_lonsdaleite_meteorite_slab"
+  }
+}

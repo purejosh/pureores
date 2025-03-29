@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_lonsdaleite_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": "pureores:lonsdaleite_ore"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:lonsdaleite_from_smelting_lonsdaleite_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_lonsdaleite_ore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:lonsdaleite_from_smelting_lonsdaleite_ore"
+    ]
+  }
+}

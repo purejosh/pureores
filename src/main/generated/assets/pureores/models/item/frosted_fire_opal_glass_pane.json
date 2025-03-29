@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "pureores:block/frosted_fire_opal_glass"
+  }
+}

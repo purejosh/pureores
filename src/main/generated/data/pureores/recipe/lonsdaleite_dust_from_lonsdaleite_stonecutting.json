@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "pureores:lonsdaleite"
+  },
+  "result": {
+    "count": 4,
+    "id": "pureores:lonsdaleite_dust"
+  }
+}

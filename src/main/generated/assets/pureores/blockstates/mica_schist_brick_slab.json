@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "pureores:block/mica_schist_brick_slab"
+    },
+    "type=double": {
+      "model": "pureores:block/mica_schist_bricks"
+    },
+    "type=top": {
+      "model": "pureores:block/mica_schist_brick_slab_top"
+    }
+  }
+}

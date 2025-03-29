@@ -1,0 +1,14 @@
+// 1.21	2025-03-27T20:50:44.6878467	Pure Ores/Tags for minecraft:block
+5d7ebb5be7d6df1bb61a4cf70fe7f11ef57ccd79 data\minecraft\tags\block\infiniburn_overworld.json
+ee14e06fee0fbf2a4b75d983386c546da872d26a data\minecraft\tags\block\overworld_carver_replaceables.json
+5d7ebb5be7d6df1bb61a4cf70fe7f11ef57ccd79 data\minecraft\tags\block\infiniburn_nether.json
+4293eb5d8b12f24d1f3e33bb20e677f78af3cb02 data\minecraft\tags\block\needs_iron_tool.json
+c0d49de43061f8cc8d20986fc2c5626034db04fd data\pureores\tags\block\meteorite_replaceable.json
+0a331716625d7aec6ebbead5603432d251d6d88b data\minecraft\tags\block\mineable\pickaxe.json
+051cf3f31a51f6c7afd8b118bb70ebf11acf1b5d data\minecraft\tags\block\needs_stone_tool.json
+363471a3d08dceed4419b8fd9452bbb40cd7a695 data\c\tags\block\storage_blocks.json
+8f0eda45b90674d1f112d265e3ffce04efa95a99 data\minecraft\tags\block\walls.json
+ae24ba0f6bfdf8d516e380ffdf0aaec802a545cc data\c\tags\block\ores.json
+5d7ebb5be7d6df1bb61a4cf70fe7f11ef57ccd79 data\minecraft\tags\block\infiniburn_end.json
+025bb06b7ce336ab7505b4bd46011202b34b9d77 data\minecraft\tags\block\needs_diamond_tool.json
+363471a3d08dceed4419b8fd9452bbb40cd7a695 data\minecraft\tags\block\beacon_base_blocks.json

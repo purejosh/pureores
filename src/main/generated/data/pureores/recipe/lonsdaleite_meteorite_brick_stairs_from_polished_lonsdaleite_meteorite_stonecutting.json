@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "pureores:polished_lonsdaleite_meteorite"
+  },
+  "result": {
+    "count": 1,
+    "id": "pureores:lonsdaleite_meteorite_brick_stairs"
+  }
+}

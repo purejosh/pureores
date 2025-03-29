@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "pureores:mica_schist"
+  },
+  "result": {
+    "count": 1,
+    "id": "pureores:mica_schist_brick_slab"
+  }
+}

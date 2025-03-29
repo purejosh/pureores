@@ -1,0 +1,28 @@
+{
+  "values": [
+    "minecraft:andesite",
+    "minecraft:brown_terracotta",
+    "minecraft:coal_ore",
+    "minecraft:coarse_dirt",
+    "minecraft:copper_ore",
+    "minecraft:diorite",
+    "minecraft:dirt",
+    "minecraft:dirt_path",
+    "minecraft:granite",
+    "minecraft:grass_block",
+    "minecraft:gravel",
+    "minecraft:iron_ore",
+    "minecraft:mycelium",
+    "minecraft:podzol",
+    "minecraft:powder_snow",
+    "minecraft:red_sand",
+    "minecraft:red_sandstone",
+    "minecraft:rooted_dirt",
+    "minecraft:sand",
+    "minecraft:sandstone",
+    "minecraft:snow",
+    "minecraft:snow_block",
+    "minecraft:stone",
+    "minecraft:terracotta"
+  ]
+}

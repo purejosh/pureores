@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "pureores:block/frosted_jadeite_glass_pane_top",
+    "pane": "pureores:block/frosted_jadeite_glass"
+  }
+}

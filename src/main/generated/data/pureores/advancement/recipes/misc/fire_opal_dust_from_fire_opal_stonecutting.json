@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_fire_opal": {
+      "conditions": {
+        "items": [
+          {
+            "items": "pureores:fire_opal"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:fire_opal_dust_from_fire_opal_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_fire_opal"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:fire_opal_dust_from_fire_opal_stonecutting"
+    ]
+  }
+}

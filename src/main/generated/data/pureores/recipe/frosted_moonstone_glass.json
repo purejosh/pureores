@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "stained_glass",
+  "key": {
+    "#": {
+      "item": "pureores:moonstone_glass"
+    },
+    "X": {
+      "item": "pureores:moonstone_dust"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "pureores:frosted_moonstone_glass"
+  }
+}

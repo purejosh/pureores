@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_chrysoberyl": {
+      "conditions": {
+        "items": [
+          {
+            "items": "pureores:chrysoberyl"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pureores:chrysoberyl_axe"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_chrysoberyl"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pureores:chrysoberyl_axe"
+    ]
+  }
+}

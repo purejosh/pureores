@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_glass_pane": {
+      "conditions": {
+        "items": [
+          {
+            "items": "pureores:fire_opal_glass_pane"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:frosted_fire_opal_glass_pane_from_fire_opal_glass_pane"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_glass_pane"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:frosted_fire_opal_glass_pane_from_fire_opal_glass_pane"
+    ]
+  }
+}

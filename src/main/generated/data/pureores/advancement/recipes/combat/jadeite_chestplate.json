@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_jadeite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "pureores:jadeite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pureores:jadeite_chestplate"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_jadeite"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pureores:jadeite_chestplate"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "pureores:block/mica_schist_bricks",
+    "side": "pureores:block/mica_schist_bricks",
+    "top": "pureores:block/mica_schist_bricks"
+  }
+}

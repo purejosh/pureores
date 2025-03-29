@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "pureores:lonsdaleite_meteorite_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "pureores:lonsdaleite_meteorite_brick_wall"
+  }
+}

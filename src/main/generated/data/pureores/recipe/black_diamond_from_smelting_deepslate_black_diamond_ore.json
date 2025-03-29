@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "deepslate_black_diamond_ore_smelt",
+  "ingredient": {
+    "item": "pureores:deepslate_black_diamond_ore"
+  },
+  "result": {
+    "id": "pureores:black_diamond"
+  }
+}

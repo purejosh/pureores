@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_black_diamond": {
+      "conditions": {
+        "items": [
+          {
+            "items": "pureores:black_diamond"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:black_diamond_dust_from_black_diamond_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_black_diamond"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:black_diamond_dust_from_black_diamond_stonecutting"
+    ]
+  }
+}

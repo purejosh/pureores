@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "pureores:block/polished_serpentinite_slab"
+    },
+    "type=double": {
+      "model": "pureores:block/polished_serpentinite"
+    },
+    "type=top": {
+      "model": "pureores:block/polished_serpentinite_slab_top"
+    }
+  }
+}

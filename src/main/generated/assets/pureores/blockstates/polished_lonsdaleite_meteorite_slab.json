@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "pureores:block/polished_lonsdaleite_meteorite_slab"
+    },
+    "type=double": {
+      "model": "pureores:block/polished_lonsdaleite_meteorite"
+    },
+    "type=top": {
+      "model": "pureores:block/polished_lonsdaleite_meteorite_slab_top"
+    }
+  }
+}

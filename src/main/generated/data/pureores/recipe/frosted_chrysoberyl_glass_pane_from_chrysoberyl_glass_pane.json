@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "stained_glass_pane",
+  "key": {
+    "#": {
+      "item": "pureores:chrysoberyl_glass_pane"
+    },
+    "$": {
+      "item": "pureores:chrysoberyl_dust"
+    }
+  },
+  "pattern": [
+    "###",
+    "#$#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "pureores:frosted_chrysoberyl_glass_pane"
+  }
+}

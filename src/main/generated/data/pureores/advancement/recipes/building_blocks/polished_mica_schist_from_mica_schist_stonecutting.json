@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_mica_schist": {
+      "conditions": {
+        "items": [
+          {
+            "items": "pureores:mica_schist"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:polished_mica_schist_from_mica_schist_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_mica_schist"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:polished_mica_schist_from_mica_schist_stonecutting"
+    ]
+  }
+}

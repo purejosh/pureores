@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "sapphire_ore_blast",
+  "ingredient": {
+    "item": "pureores:deepslate_sapphire_ore"
+  },
+  "result": {
+    "id": "pureores:sapphire"
+  }
+}

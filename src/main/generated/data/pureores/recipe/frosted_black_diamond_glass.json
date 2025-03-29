@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "stained_glass",
+  "key": {
+    "#": {
+      "item": "pureores:black_diamond_glass"
+    },
+    "X": {
+      "item": "pureores:black_diamond_dust"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "pureores:frosted_black_diamond_glass"
+  }
+}

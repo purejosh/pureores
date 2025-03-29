@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_chrysoberyl_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": "pureores:chrysoberyl_ore"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:chrysoberyl_from_smelting_chrysoberyl_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_chrysoberyl_ore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:chrysoberyl_from_smelting_chrysoberyl_ore"
+    ]
+  }
+}

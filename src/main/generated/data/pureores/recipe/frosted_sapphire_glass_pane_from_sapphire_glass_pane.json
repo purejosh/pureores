@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "stained_glass_pane",
+  "key": {
+    "#": {
+      "item": "pureores:sapphire_glass_pane"
+    },
+    "$": {
+      "item": "pureores:sapphire_dust"
+    }
+  },
+  "pattern": [
+    "###",
+    "#$#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "pureores:frosted_sapphire_glass_pane"
+  }
+}

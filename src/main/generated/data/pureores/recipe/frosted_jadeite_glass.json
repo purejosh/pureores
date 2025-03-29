@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "stained_glass",
+  "key": {
+    "#": {
+      "item": "pureores:jadeite_glass"
+    },
+    "X": {
+      "item": "pureores:jadeite_dust"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "pureores:frosted_jadeite_glass"
+  }
+}

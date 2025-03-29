@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "pureores:block/serpentinite_bricks",
+    "side": "pureores:block/serpentinite_bricks",
+    "top": "pureores:block/serpentinite_bricks"
+  }
+}

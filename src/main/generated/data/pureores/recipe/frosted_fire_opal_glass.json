@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "stained_glass",
+  "key": {
+    "#": {
+      "item": "pureores:fire_opal_glass"
+    },
+    "X": {
+      "item": "pureores:fire_opal_dust"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "pureores:frosted_fire_opal_glass"
+  }
+}

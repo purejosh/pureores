@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_serpentinite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "pureores:serpentinite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:polished_serpentinite_from_serpentinite_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_serpentinite"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:polished_serpentinite_from_serpentinite_stonecutting"
+    ]
+  }
+}

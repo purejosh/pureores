@@ -1,0 +1,13 @@
+// 1.21	2025-03-27T20:50:44.6930408	Pure Ores/Tags for minecraft:item
+4464869bc86f12677cb7b502c267868dac13dedb data\minecraft\tags\item\hoes.json
+71d5b2c8b6d26aa3e435aaf5c4ee2a6aa68dfc0a data\minecraft\tags\item\beacon_payment_items.json
+99656ec2a0a2f4dcdd22bd1b8a92d2e9433294c5 data\minecraft\tags\item\head_armor.json
+c437402584e029a152f94f4f4930bb9cc678a38a data\minecraft\tags\item\axes.json
+09efdb30fcf0cf0d4e1b105eea97cf78eb001143 data\minecraft\tags\item\swords.json
+7b77dc9730f8c1c8746cd200349714c7dac2f43f data\c\tags\item\tools\melee_weapon.json
+dfea9aa80b75ebf47354e20a0636b5eb31569407 data\minecraft\tags\item\foot_armor.json
+0f96a1d7c56a40db8a1f06e4e1bcacb209e074dd data\minecraft\tags\item\leg_armor.json
+57abaeb77c42f20550bf162e2703cd4e33e7cb46 data\c\tags\item\tools\mining_tool.json
+db578b34e52629e8600a8494e80b52cbd59d726b data\minecraft\tags\item\shovels.json
+57abaeb77c42f20550bf162e2703cd4e33e7cb46 data\minecraft\tags\item\pickaxes.json
+6ef0a4a55147e27e28e2a1d1ba6e1321e870073e data\minecraft\tags\item\chest_armor.json

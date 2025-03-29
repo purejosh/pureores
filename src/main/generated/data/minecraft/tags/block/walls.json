@@ -1,0 +1,13 @@
+{
+  "values": [
+    "pureores:serpentinite_wall",
+    "pureores:polished_serpentinite_wall",
+    "pureores:serpentinite_brick_wall",
+    "pureores:mica_schist_wall",
+    "pureores:polished_mica_schist_wall",
+    "pureores:mica_schist_brick_wall",
+    "pureores:lonsdaleite_meteorite_wall",
+    "pureores:polished_lonsdaleite_meteorite_wall",
+    "pureores:lonsdaleite_meteorite_brick_wall"
+  ]
+}

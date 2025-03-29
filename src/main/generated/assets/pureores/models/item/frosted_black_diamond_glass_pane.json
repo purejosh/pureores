@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "pureores:block/frosted_black_diamond_glass"
+  }
+}

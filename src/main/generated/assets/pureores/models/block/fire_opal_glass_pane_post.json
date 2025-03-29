@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_post",
+  "textures": {
+    "edge": "pureores:block/fire_opal_glass_pane_top",
+    "pane": "pureores:block/fire_opal_glass"
+  }
+}
